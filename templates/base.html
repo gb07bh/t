@@ -57,10 +57,10 @@
 <body>
 
     <div class="navbar">
-        <a href="./" class="{{ 'active' if not current_report else '' }}">Home</a>
+        <a href="{{ url_for('home') }}" class="{{ 'active' if not current_report else '' }}">Home</a>
 
         {% for report in reports %}
-        <a href="./{{ report }}" class="{{ 'active' if report == current_report else '' }}">
+        <a href="{{ url_for('show_report', report_name=report) }} " class="{{ 'active' if report == current_report else '' }}">
             {{ report.capitalize() }}
         </a>
         {% endfor %}
