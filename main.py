@@ -30,13 +30,13 @@ def inject_reports():
     return dict(reports=get_available_reports())
 
 
-@app.route("./")
+@app.route("/")
 def home():
     reports = get_available_reports()
     return render_template("base.html", current_report=None)
 
 
-@app.route("./report/<report_name>")
+@app.route("/report/<report_name>")
 def show_report(report_name):
     data = load_json(report_name)
 
