@@ -1,0 +1,191 @@
+[
+    {
+        "district": "Nagpur",
+        "classification": "Group D",
+        "Category": "MSME (Small Enterprise)",
+        "values": [
+            {
+                "Incentive Name": "Industrial Promotion Subsidy (IPS)",
+                "Max amount": "₹11,88,00,000",
+                "Status Evidence": "Eligibility based on [Group D] in [Nagpur City]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹19,80,00,000 (FCI) x 60% (Ceiling for Group D) = ₹11,88,00,000. Refund of 100% Gross SGST on sales within Maharashtra up to this limit[cite: 189]."
+            },
+            {
+                "Incentive Name": "Interest Subsidy",
+                "Max amount": "₹1,00,00,000",
+                "Status Evidence": "Eligibility based on [MSME] in [Any Area]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: 5% subvention on ₹14,20,00,000 (Term Loan) capped at ₹1,00,00,000 per annum[cite: 197, 198]."
+            },
+            {
+                "Incentive Name": "Stamp Duty Exemption",
+                "Max amount": "₹29,70,000",
+                "Status Evidence": "Eligibility based on [Group D] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: 100% exemption on Stamp Duty paid for new units in Group D and below[cite: 199]."
+            },
+            {
+                "Incentive Name": "Electricity Duty Exemption",
+                "Max amount": "₹9,80,000",
+                "Status Evidence": "Eligibility based on [Group D] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: 100% exemption from electricity duty for the incentive period (10 years for Group D)[cite: 201]."
+            }
+        ]
+    },
+    {
+        "district": "Kolhapur",
+        "classification": "Group D",
+        "Category": "MSME (Small Enterprise)",
+        "values": [
+            {
+                "Incentive Name": "Industrial Promotion Subsidy (IPS)",
+                "Max amount": "₹8,85,00,000",
+                "Status Evidence": "Eligibility based on [Group D] in [Shirol]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹14,75,00,000 (FCI) x 60% (Ceiling for Group D) = ₹8,85,00,000[cite: 189]."
+            },
+            {
+                "Incentive Name": "Interest Subsidy",
+                "Max amount": "₹52,50,000",
+                "Status Evidence": "Eligibility based on [MSME] in [Any Area]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹10,50,00,000 (Term Loan) x 5% = ₹52,50,000 per annum (Below ₹1Cr cap)[cite: 197, 198]."
+            },
+            {
+                "Incentive Name": "Stamp Duty Exemption",
+                "Max amount": "₹22,10,000",
+                "Status Evidence": "Eligibility based on [Group D] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: 100% exemption on ₹22,10,000[cite: 199]."
+            }
+        ]
+    },
+    {
+        "district": "Pune",
+        "classification": "Group C",
+        "Category": "MSME (Small Enterprise)",
+        "values": [
+            {
+                "Incentive Name": "Industrial Promotion Subsidy (IPS)",
+                "Max amount": "₹4,75,00,000",
+                "Status Evidence": "Eligibility based on [Group C] in [Baramati]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹9,50,00,000 (FCI) x 50% (Ceiling for Group C) = ₹4,75,00,000[cite: 189]."
+            },
+            {
+                "Incentive Name": "Interest Subsidy",
+                "Max amount": "₹34,00,000",
+                "Status Evidence": "Eligibility based on [MSME] in [Any Area]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹6,80,00,000 (Term Loan) x 5% = ₹34,00,000 per annum[cite: 197]."
+            },
+            {
+                "Incentive Name": "Stamp Duty Exemption",
+                "Max amount": "₹14,25,000",
+                "Status Evidence": "Eligibility based on [Group C] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: 100% exemption for units in Group C and below[cite: 199]."
+            }
+        ]
+    },
+    {
+        "district": "Raigad",
+        "classification": "Group A",
+        "Category": "MSME (Small Enterprise)",
+        "values": [
+            {
+                "Incentive Name": "Industrial Promotion Subsidy (IPS)",
+                "Max amount": "₹2,04,00,000",
+                "Status Evidence": "Eligibility based on [Group A] in [Navi Mumbai (Uran/Panvel)]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹6,80,00,000 (FCI) x 30% (Ceiling for Group A) = ₹2,04,00,000[cite: 189]."
+            },
+            {
+                "Incentive Name": "Stamp Duty Exemption",
+                "Max amount": "₹5,10,000",
+                "Status Evidence": "Eligibility based on [Group A] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹10,20,000 x 50% waiver (Group A eligibility) = ₹5,10,000[cite: 200]."
+            }
+        ]
+    },
+    {
+        "district": "Nashik",
+        "classification": "Group B",
+        "Category": "MSME (Small Enterprise)",
+        "values": [
+            {
+                "Incentive Name": "Industrial Promotion Subsidy (IPS)",
+                "Max amount": "₹1,40,00,000",
+                "Status Evidence": "Eligibility based on [Group B] in [Nashik]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹3,50,00,000 (FCI) x 40% (Ceiling for Group B) = ₹1,40,00,000[cite: 189]."
+            },
+            {
+                "Incentive Name": "Interest Subsidy",
+                "Max amount": "₹12,00,000",
+                "Status Evidence": "Eligibility based on [MSME] in [Any Area]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹2,40,00,000 (Term Loan) x 5% = ₹12,00,000 per annum[cite: 197]."
+            },
+            {
+                "Incentive Name": "Stamp Duty Exemption",
+                "Max amount": "₹2,62,500",
+                "Status Evidence": "Eligibility based on [Group B] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹5,25,000 x 50% waiver (Group B eligibility) = ₹2,62,500[cite: 200]."
+            }
+        ]
+    },
+    {
+        "district": "Pune",
+        "classification": "Group A",
+        "Category": "MSME (Micro Enterprise)",
+        "values": [
+            {
+                "Incentive Name": "Industrial Promotion Subsidy (IPS)",
+                "Max amount": "₹36,00,000",
+                "Status Evidence": "Eligibility based on [Group A] in [Pimpri-Chinchwad]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹1,20,00,000 (FCI) x 30% (Ceiling for Group A) = ₹36,00,000[cite: 189]."
+            },
+            {
+                "Incentive Name": "Stamp Duty Exemption",
+                "Max amount": "₹90,000",
+                "Status Evidence": "Eligibility based on [Group A] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹1,80,00,000 x 50% waiver = ₹90,000[cite: 200]."
+            }
+        ]
+    },
+    {
+        "district": "Solapur",
+        "classification": "Group D+",
+        "Category": "MSME (Micro Enterprise)",
+        "values": [
+            {
+                "Incentive Name": "Industrial Promotion Subsidy (IPS)",
+                "Max amount": "₹84,00,000",
+                "Status Evidence": "Eligibility based on [Group D+] in [Solapur South]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹1,20,00,000 (FCI) x 70% (Ceiling for Group D+) = ₹84,00,000[cite: 189]."
+            },
+            {
+                "Incentive Name": "Interest Subsidy",
+                "Max amount": "₹4,00,000",
+                "Status Evidence": "Eligibility based on [MSME] in [Any Area]",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: ₹80,00,000 (Term Loan) x 5% = ₹4,00,000 per annum[cite: 197]."
+            },
+            {
+                "Incentive Name": "Stamp Duty Exemption",
+                "Max amount": "₹1,80,000",
+                "Status Evidence": "Eligibility based on [Group D+] classification",
+                "page Numbers": "48",
+                "Breakdown": "Step-by-step calculation: 100% exemption for Group D+[cite: 199]."
+            }
+        ]
+    }
+]

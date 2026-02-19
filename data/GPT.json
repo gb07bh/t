@@ -1,0 +1,296 @@
+[
+    {
+      "district": "Nagpur",
+      "classification": "Group D",
+      "Category": "MSME (Manufacturing)",
+      "values": [
+        {
+          "Incentive Name": "Industrial Promotion Subsidy (IPS / SGST Refund)",
+          "Max amount": "Up to 60% of FCI (₹11.88 Cr ceiling)",
+          "Status Evidence": "Eligible MSME unit in Group D area",
+          "page Numbers": "Page 46–47",
+          "Breakdown": "Maximum ceiling for Group D MSME = 60% × ₹19.80 Cr = ₹11.88 Cr"
+        },
+        {
+          "Incentive Name": "Interest Subsidy",
+          "Max amount": "₹1.00 Cr per year",
+          "Status Evidence": "MSME Manufacturing unit with term loan",
+          "page Numbers": "Page 47",
+          "Breakdown": "Eligible interest subsidy up to 5% p.a. subject to annual cap of ₹1 Cr"
+        },
+        {
+          "Incentive Name": "Stamp Duty Exemption",
+          "Max amount": "₹29.70 Lakh (100% exemption)",
+          "Status Evidence": "New MSME unit in Group D",
+          "page Numbers": "Page 47",
+          "Breakdown": "100% exemption of stamp duty paid = ₹29.70 Lakh"
+        },
+        {
+          "Incentive Name": "Electricity Duty Exemption",
+          "Max amount": "₹9.80 Lakh",
+          "Status Evidence": "MSME unit in Group D area",
+          "page Numbers": "Page 47",
+          "Breakdown": "100% exemption of electricity duty paid during incentive period"
+        },
+        {
+          "Incentive Name": "Power Tariff Subsidy",
+          "Max amount": "₹1.00 Cr",
+          "Status Evidence": "Eligible MSME in Group D",
+          "page Numbers": "Page 47",
+          "Breakdown": "₹1/unit for 3 years capped at ₹1 Cr"
+        }
+      ]
+    },
+  {
+    "district": "Kolhapur",
+    "classification": "Group D",
+    "Category": "MSME (Manufacturing)",
+    "values": [
+      {
+        "Incentive Name": "Industrial Promotion Subsidy (IPS / SGST Refund)",
+        "Max amount": "Up to 60% of FCI (₹8.85 Cr ceiling)",
+        "Status Evidence": "Eligible MSME unit in Group D area",
+        "page Numbers": "Page 46–47",
+        "Breakdown": "Maximum ceiling for Group D MSME = 60% × ₹14.75 Cr = ₹8.85 Cr"
+      },
+      {
+        "Incentive Name": "Interest Subsidy",
+        "Max amount": "₹1.00 Cr per year",
+        "Status Evidence": "MSME Manufacturing unit with term loan",
+        "page Numbers": "Page 47",
+        "Breakdown": "Eligible interest subsidy up to 5% p.a. subject to annual cap of ₹1 Cr"
+      },
+      {
+        "Incentive Name": "Stamp Duty Exemption",
+        "Max amount": "₹22.10 Lakh (100% exemption)",
+        "Status Evidence": "New MSME unit in Group D",
+        "page Numbers": "Page 47",
+        "Breakdown": "100% exemption of stamp duty paid = ₹22.10 Lakh"
+      },
+      {
+        "Incentive Name": "Electricity Duty Exemption",
+        "Max amount": "₹7.60 Lakh",
+        "Status Evidence": "MSME unit in Group D area",
+        "page Numbers": "Page 47",
+        "Breakdown": "100% exemption of electricity duty paid during incentive period"
+      },
+      {
+        "Incentive Name": "Power Tariff Subsidy",
+        "Max amount": "₹1.00 Cr",
+        "Status Evidence": "Eligible MSME in Group D",
+        "page Numbers": "Page 47",
+        "Breakdown": "₹1/unit for 3 years capped at ₹1 Cr"
+      }
+    ]
+  },
+   {
+     "district": "Pune",
+     "classification": "Group C",
+     "Category": "MSME (Manufacturing)",
+     "values": [
+       {
+         "Incentive Name": "Industrial Promotion Subsidy (IPS / SGST Refund)",
+         "Max amount": "Up to 50% of FCI (₹4.75 Cr ceiling)",
+         "Status Evidence": "Eligible MSME unit located in Group C area",
+         "page Numbers": "Page 46–47",
+         "Breakdown": "Maximum ceiling for Group C MSME = 50% × ₹9.50 Cr = ₹4.75 Cr"
+       },
+       {
+         "Incentive Name": "Interest Subsidy",
+         "Max amount": "₹0.75 Cr per year",
+         "Status Evidence": "MSME Manufacturing unit with sanctioned term loan",
+         "page Numbers": "Page 47",
+         "Breakdown": "Interest subsidy up to 5% p.a. subject to annual cap of ₹0.75 Cr for Group C"
+       },
+       {
+         "Incentive Name": "Stamp Duty Exemption",
+         "Max amount": "₹14.25 Lakh (100% exemption)",
+         "Status Evidence": "New MSME unit in Group C area",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% exemption of stamp duty actually paid = ₹14.25 Lakh"
+       },
+       {
+         "Incentive Name": "Electricity Duty Exemption",
+         "Max amount": "₹5.10 Lakh",
+         "Status Evidence": "MSME unit eligible for electricity duty exemption",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% exemption of electricity duty paid during eligible period"
+       },
+       {
+         "Incentive Name": "Power Tariff Subsidy",
+         "Max amount": "₹0.75 Cr",
+         "Status Evidence": "Eligible MSME unit in Group C area",
+         "page Numbers": "Page 47",
+         "Breakdown": "₹1/unit for 3 years subject to maximum cap of ₹0.75 Cr"
+       }
+     ]
+   },
+   {
+     "district": "Thane",
+     "classification": "Group D",
+     "Category": "MSME (Manufacturing)",
+     "values": [
+       {
+         "Incentive Name": "Industrial Promotion Subsidy (IPS / SGST Refund)",
+         "Max amount": "Up to 60% of FCI (₹4.08 Cr ceiling)",
+         "Status Evidence": "Eligible MSME unit in Group D area",
+         "page Numbers": "Page 46–47",
+         "Breakdown": "60% × ₹6.80 Cr = ₹4.08 Cr"
+       },
+       {
+         "Incentive Name": "Interest Subsidy",
+         "Max amount": "₹1.00 Cr per year",
+         "Status Evidence": "MSME Manufacturing unit with term loan",
+         "page Numbers": "Page 47",
+         "Breakdown": "Up to 5% p.a. subject to ₹1 Cr annual cap"
+       },
+       {
+         "Incentive Name": "Stamp Duty Exemption",
+         "Max amount": "₹10.20 Lakh",
+         "Status Evidence": "New MSME unit in Group D",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of stamp duty paid"
+       },
+       {
+         "Incentive Name": "Electricity Duty Exemption",
+         "Max amount": "₹3.80 Lakh",
+         "Status Evidence": "MSME unit in Group D",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of electricity duty paid"
+       },
+       {
+         "Incentive Name": "Power Tariff Subsidy",
+         "Max amount": "₹1.00 Cr",
+         "Status Evidence": "Eligible MSME in Group D",
+         "page Numbers": "Page 47",
+         "Breakdown": "₹1/unit for 3 years capped at ₹1 Cr"
+       }
+     ]
+   },{
+     "district": "Nashik",
+     "classification": "Group B",
+     "Category": "MSME (Manufacturing)",
+     "values": [
+       {
+         "Incentive Name": "Industrial Promotion Subsidy (IPS / SGST Refund)",
+         "Max amount": "Up to 40% of FCI (₹1.40 Cr ceiling)",
+         "Status Evidence": "Eligible MSME unit in Group B area",
+         "page Numbers": "Page 46–47",
+         "Breakdown": "40% × ₹3.50 Cr = ₹1.40 Cr"
+       },
+       {
+         "Incentive Name": "Interest Subsidy",
+         "Max amount": "₹0.50 Cr per year",
+         "Status Evidence": "MSME Manufacturing unit with term loan",
+         "page Numbers": "Page 47",
+         "Breakdown": "Up to 5% p.a. subject to ₹0.50 Cr annual cap"
+       },
+       {
+         "Incentive Name": "Stamp Duty Exemption",
+         "Max amount": "₹5.25 Lakh",
+         "Status Evidence": "New MSME unit in Group B",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of stamp duty paid"
+       },
+       {
+         "Incentive Name": "Electricity Duty Exemption",
+         "Max amount": "₹2.10 Lakh",
+         "Status Evidence": "MSME unit in Group B",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of electricity duty paid"
+       },
+       {
+         "Incentive Name": "Power Tariff Subsidy",
+         "Max amount": "₹0.50 Cr",
+         "Status Evidence": "Eligible MSME in Group B",
+         "page Numbers": "Page 47",
+         "Breakdown": "₹1/unit for 3 years capped at ₹0.50 Cr"
+       }
+     ]
+   },{
+     "district": "Pune",
+     "classification": "Group A",
+     "Category": "MSME (Manufacturing)",
+     "values": [
+       {
+         "Incentive Name": "Industrial Promotion Subsidy (IPS / SGST Refund)",
+         "Max amount": "Up to 30% of FCI (₹0.36 Cr ceiling)",
+         "Status Evidence": "Eligible MSME unit in Group A area",
+         "page Numbers": "Page 46–47",
+         "Breakdown": "30% × ₹1.20 Cr = ₹0.36 Cr"
+       },
+       {
+         "Incentive Name": "Interest Subsidy",
+         "Max amount": "₹0.25 Cr per year",
+         "Status Evidence": "MSME Manufacturing unit with term loan",
+         "page Numbers": "Page 47",
+         "Breakdown": "Up to 5% p.a. subject to ₹0.25 Cr annual cap"
+       },
+       {
+         "Incentive Name": "Stamp Duty Exemption",
+         "Max amount": "₹1.80 Lakh",
+         "Status Evidence": "New MSME unit in Group A",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of stamp duty paid"
+       },
+       {
+         "Incentive Name": "Electricity Duty Exemption",
+         "Max amount": "₹0.95 Lakh",
+         "Status Evidence": "MSME unit in Group A",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of electricity duty paid"
+       },
+       {
+         "Incentive Name": "Power Tariff Subsidy",
+         "Max amount": "₹0.25 Cr",
+         "Status Evidence": "Eligible MSME in Group A",
+         "page Numbers": "Page 47",
+         "Breakdown": "₹1/unit for 3 years capped at ₹0.25 Cr"
+       }
+     ]
+   },
+   {
+     "district": "Solapur",
+     "classification": "Group D",
+     "Category": "MSME (Manufacturing)",
+     "values": [
+       {
+         "Incentive Name": "Industrial Promotion Subsidy (IPS / SGST Refund)",
+         "Max amount": "Up to 60% of FCI (₹0.72 Cr ceiling)",
+         "Status Evidence": "Eligible MSME unit in Group D area",
+         "page Numbers": "Page 46–47",
+         "Breakdown": "60% × ₹1.20 Cr = ₹0.72 Cr"
+       },
+       {
+         "Incentive Name": "Interest Subsidy",
+         "Max amount": "₹1.00 Cr per year",
+         "Status Evidence": "MSME Manufacturing unit with term loan",
+         "page Numbers": "Page 47",
+         "Breakdown": "Up to 5% p.a. subject to ₹1 Cr annual cap"
+       },
+       {
+         "Incentive Name": "Stamp Duty Exemption",
+         "Max amount": "₹1.80 Lakh",
+         "Status Evidence": "New MSME unit in Group D",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of stamp duty paid"
+       },
+       {
+         "Incentive Name": "Electricity Duty Exemption",
+         "Max amount": "₹0.95 Lakh",
+         "Status Evidence": "MSME unit in Group D",
+         "page Numbers": "Page 47",
+         "Breakdown": "100% of electricity duty paid"
+       },
+       {
+         "Incentive Name": "Power Tariff Subsidy",
+         "Max amount": "₹1.00 Cr",
+         "Status Evidence": "Eligible MSME in Group D",
+         "page Numbers": "Page 47",
+         "Breakdown": "₹1/unit for 3 years capped at ₹1 Cr"
+       }
+     ]
+   }
+
+
+]

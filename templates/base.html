@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MSME Dashboard</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+        }
+
+        .navbar {
+            background-color: #2c3e50;
+            padding: 15px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+            font-weight: bold;
+            padding: 6px 10px;
+            border-radius: 4px;
+        }
+
+        .navbar a:hover {
+            background-color: #34495e;
+        }
+
+        .active {
+            background-color: #1abc9c;
+        }
+
+        .container {
+            padding: 30px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th,
+        td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            vertical-align: top;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="navbar">
+        <a href="/" class="{{ 'active' if not current_report else '' }}">Home</a>
+
+        {% for report in reports %}
+        <a href="/report/{{ report }}" class="{{ 'active' if report == current_report else '' }}">
+            {{ report.capitalize() }}
+        </a>
+        {% endfor %}
+    </div>
+
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+
+</body>
+
+</html>

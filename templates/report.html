@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>{{ current_report.capitalize() }} Report</h2>
+
+{% for item in data %}
+<div style="margin-bottom:40px;">
+
+    <p>
+        <strong>District:</strong> {{ item["district"] }} <br>
+        <strong>Classification:</strong> {{ item["classification"] }} <br>
+        <strong>Category:</strong> {{ item["Category"] }}
+    </p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Incentive Name</th>
+                <th>Max Amount</th>
+                <th>Status Evidence</th>
+                <th>Page Numbers</th>
+                <th>Breakdown</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for incentive in item["values"] %}
+            <tr>
+                <td>{{ incentive["Incentive Name"] }}</td>
+                <td>{{ incentive["Max amount"] }}</td>
+                <td>{{ incentive["Status Evidence"] }}</td>
+                <td>{{ incentive["page Numbers"] }}</td>
+                <td>{{ incentive["Breakdown"] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</div>
+{% endfor %}
+
+{% endblock %}
