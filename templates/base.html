@@ -60,7 +60,7 @@
         <a href="./" class="{{ 'active' if not current_report else '' }}">Home</a>
 
         {% for report in reports %}
-        <a href="./report/{{ report }}" class="{{ 'active' if report == current_report else '' }}">
+        <a href="./{{ report }}" class="{{ 'active' if report == current_report else '' }}">
             {{ report.capitalize() }}
         </a>
         {% endfor %}
