@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-DATA_FOLDER = "Chatgpt/flask/data"
+DATA_FOLDER = "data"
 
 
 def get_available_reports():
